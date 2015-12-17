@@ -1,7 +1,7 @@
 name: TommiT
 favicon: null
-layout_spectrum: 0.9073894910980016
-typography_spectrum: 0.6469665213953704
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#e49ce6'
     - '#4ebcbb'
   brandStrength: 0.5
-  lightness: 0.24733765446580946
-  saturation: 0.48525542044080794
-  rhythmicContrast: 0.9462932692840695
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
